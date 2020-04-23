@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "delete_sql.pbt";
+@end;
+DefaultTarget "delete_sql.pbt";
+DefaultRemoteTarget "delete_sql.pbt";
