@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "select_sql.pbt";
+@end;
+DefaultTarget "select_sql.pbt";
+DefaultRemoteTarget "select_sql.pbt";
